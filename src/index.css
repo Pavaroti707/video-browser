@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.video-browser-header {
+  font-size: 50px;
+  margin-left: 43%;
+  margin-top: 10px;
+  border-radius: 50px;
+}
+
+.video-browser-search {
+  margin: 100px;
+  margin-left: 15%;
+  margin-top: 45px;
+}
+
+.video-browser-item {
+  margin-left: 15%;
+}
+
+.video-browser-item-one-title {
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+}
+
+.video-browser-item-one-description {
+  font-family: "Times New Roman", Times, serif;
+}
