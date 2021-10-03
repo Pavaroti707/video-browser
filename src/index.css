@@ -14,26 +14,38 @@ code {
 
 .video-browser-header {
   font-size: 50px;
-  margin-left: 43%;
-  margin-top: 10px;
-  border-radius: 50px;
+  line-height: 100%;
+  margin-top: 2px;
+  background-color: lightblue;
+  background-position: center;
 }
 
 .video-browser-search {
   margin: 100px;
-  margin-left: 15%;
-  margin-top: 45px;
-}
-
-.video-browser-item {
-  margin-left: 15%;
+  margin-left: 500px;
+  margin-top: 10px;
+  width: 100px;
+  size: 100px;
 }
 
 .video-browser-item-one-title {
   font-family: "Times New Roman", Times, serif;
-  font-size: large;
+  font-size: x-large;
 }
 
 .video-browser-item-one-description {
   font-family: "Times New Roman", Times, serif;
+  font-size: 15px;
+  margin-right: 15%;
+  margin-bottom: 25%;
+}
+
+.video-browser-item-one {
+  position: center;
+}
+
+.video-browser-item-rest {
+  margin-bottom: 10%;
+  margin-left: 50%;
+  margin-top: 10%;
 }

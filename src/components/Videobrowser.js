@@ -4,7 +4,7 @@ import SerachBar from "./SerachBar";
 import VideoList from "./VideoList";
 
 export default function Videobrowser() {
-  const [word, setWord] = useState("");
+  const [word, setWord] = useState("Korg");
 
   return (
     <div>

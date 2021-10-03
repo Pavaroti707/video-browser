@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 export default function SerachBar({ setWord }) {
-  const [tempWord, setTempWord] = useState("");
+  const [tempWord, setTempWord] = useState("Korg");
 
   const changeHandler = (e) => {
     setTempWord(e.target.value);
